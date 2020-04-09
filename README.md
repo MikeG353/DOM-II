@@ -6,10 +6,10 @@ Fun Bus wants you to make their site more interactive. They are relying on you t
 
 **Follow these steps to set up and work on your project:**
 
-* [ ] Create a forked copy of this project.
+* [x] Create a forked copy of this project.
 * [ ] Add your project manager as collaborator on Github.
-* [ ] Clone your OWN version of the repository (Not Lambda's by mistake!).
-* [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
+* [x] Clone your OWN version of the repository (Not Lambda's by mistake!).
+* [x] Create a new branch: git checkout -b `<firstName-lastName>`.
 * [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
 * [ ] Push commits: git push origin `<firstName-lastName>`.
 
@@ -34,16 +34,16 @@ Fun Bus wants you to make their site more interactive. They are relying on you t
 ## Task 2: Create Unique Event Listeners
 
 * [ ] Using your [index.js file](js/index.js), create 10 [unique event listeners](https://developer.mozilla.org/en-US/docs/Web/Events). using your creativity to make the Fun Bus site more interactive.  Here are some unique events you could try to use: 
-	* [ ] `mouseover`
-	* [ ] `keydown`
+	* [x] `mouseover`
+	* [x] `keydown`
 	* [ ] `wheel`
-	* [ ] `drag / drop`
-	* [ ] `load`
+	* [x] `drag / drop`
+	* [x] `load`
 	* [ ] `focus`
 	* [ ] `resize`
-	* [ ] `scroll`
+	* [x] `scroll`
 	* [ ] `select`
-	* [ ] `dblclick`
+	* [x] `dblclick`
 
 Using the 10 unique events, find ways to update the DOM in creative ways. For example you could change colors, animate objects, remove objects, etc.
 
